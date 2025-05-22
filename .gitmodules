@@ -1,0 +1,6 @@
+[submodule "identity"]
+	path = identity
+	url = https://github.com/radanpro/identity.git
+[submodule "face-recognition-students"]
+	path = face-recognition-students
+	url = https://github.com/HadiAljaami/face-recognition-students.git
